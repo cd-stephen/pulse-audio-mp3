@@ -1,6 +1,7 @@
 # MP3 Player
 
 This is a simple MP3 player program written in C.
+https://www.youtube.com/watch?v=JEhPGSK105k
 
 ## References
 https://www.mpg123.de
