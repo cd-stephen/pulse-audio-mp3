@@ -12,6 +12,10 @@ Before running the program, make sure you have the following installed:
 - C compiler (e.g., GCC)
 - MP3 library (e.g., libmpg123)
 
+```shell
+sudo apt-get install libmpg123-dev libpulse-dev
+```
+
 ## Getting Started
 
 1. Clone the repository:
